@@ -6,7 +6,8 @@
     font-family: "Ascender Serif";
 }
 .navmain{
-    background-color: #1D4776;
+    /* background-color: #1D4776; */
+    background-color: #e1a753;
     display: flex;
     align-items:center;
     justify-content:space-around;

@@ -21,14 +21,15 @@ const BannerSection = () => {
             ></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            {/* <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> */}
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
           </ol>
           <div className="carousel-inner" role="listbox">
             <div className="carousel-item active">
               <img
                 className="d-block slideimage"
-                src="./images1/slide1.webp"
+                src="./images1/slide1.png"
                 alt="First slide"
               />
               <div className="carousel-caption d-none d-md-block">
@@ -46,40 +47,39 @@ const BannerSection = () => {
             <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide2_11zon.webp"
+                src="./images1/slide2.png"
                 alt="Second slide"
               />
-              <div className="carousel-caption d-none d-md-block">
-                {/* <h1 style={{ color: "#262624" }}>
-                  <b>Dynamic Educators</b>
-                </h1>
-                <p>
-                  <b>
-                    Since its inception, HIS has consistently grown year after
-                    year
-                  </b>
-                </p> */}
-              </div>
+           
             </div>
             <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide3_11zon.webp"
+                src="./images1/slide3.png"
                 alt="Third slide"
               />
-              <div className="carousel-caption d-none d-md-block">
-                {/* <h1>
-                  <b>Hands-on learning</b>
-                </h1>
-                <p>
-                  <b>
-                    Since its inception, HIS has consistently grown year after
-                    year and has gained a reputation of becoming a leading
-                    Muslim educational institute.
-                  </b>
-                </p> */}
-              </div>
             </div>
+            <div className="carousel-item">
+              <img
+                className="d-block slideimage"
+                src="./images1/slide4.png"
+                alt="Third slide"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                className="d-block slideimage"
+                src="./images1/slide5.png"
+                alt="Third slide"
+              />
+            </div>
+            {/* <div className="carousel-item">
+              <img
+                className="d-block slideimage"
+                src="./images1/slide6.png"
+                alt="Third slide"
+              />
+            </div> */}
            
           
           </div>

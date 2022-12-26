@@ -29,7 +29,7 @@ const Gallery = () => {
             </div><div className="one">
                 <img src="./images1/g7.jpeg" alt="" />
             </div><div className="one">
-                <img src="./images1/g8.jpeg" alt="" />
+                <img src="./images1/g8.jpg" alt="" />
             </div>
         </div>
         <div className="first">
@@ -39,9 +39,9 @@ const Gallery = () => {
             <div className="one">
                 <img src="./images1/g10.jpeg" alt="" />
             </div><div className="one">
-                <img src="./images1/g11.jpeg" alt="" />
+                <img src="./images1/g11.jpg" alt="" />
             </div><div className="one">
-                <img src="./images1/g12.jpeg" alt="" />
+                <img src="./images1/g12.jpg" alt="" />
             </div>
         </div>
     </div>

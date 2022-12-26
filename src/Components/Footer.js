@@ -41,7 +41,7 @@ const Footer = () => {
 
         <div className="footerleft">
           <div className="logo">
-            <img src="./images1/logo.jpeg" alt="" />
+            <img src="./images1/logo.png" alt="" />
           </div>
         </div>
         <div className="fbrightt">

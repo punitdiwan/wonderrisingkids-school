@@ -23,14 +23,15 @@ const BannerSection = () => {
             ></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            {/* <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> */}
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
           </ol>
           <div className="carousel-inner" role="listbox">
             <div className="carousel-item active">
               <img
                 className="d-block slideimage"
-                src="./images1/slide1.webp"
+                src="./images1/slide1.png"
                 alt="First slide"
               />
               {/* <div className="carousel-caption d-none d-md-block">
@@ -49,40 +50,39 @@ const BannerSection = () => {
             <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide2_11zon.webp"
+                src="./images1/slide2.png"
                 alt="Second slide"
               />
-              {/* <div className="carousel-caption d-none d-md-block">
-                <h1 style={{ color: "black" }}>
-                  <b>Dynamic Educators</b>
-                </h1>
-                <p>
-                  <b style={{ color: "#262624" }}>
-                  Wonder Rising Kids School to facilitate 21st century
-                    teaching and learning for its teachers and students.
-                  </b>
-                </p>
-              </div> */}
+           
             </div>
             <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide3_11zon.webp"
+                src="./images1/slide3.png"
                 alt="Third slide"
               />
-              {/* <div className="carousel-caption d-none d-md-block">
-                <h1>
-                  <b>Hands-on learning</b>
-                </h1>
-                <p>
-                  <b>
-                    Since its inception, HIS has consistently grown year after
-                    year and has gained a reputation of becoming a leading
-                    educational institute.
-                  </b>
-                </p>
-              </div> */}
             </div>
+            <div className="carousel-item">
+              <img
+                className="d-block slideimage"
+                src="./images1/slide4.png"
+                alt="Third slide"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                className="d-block slideimage"
+                src="./images1/slide5.png"
+                alt="Third slide"
+              />
+            </div>
+            {/* <div className="carousel-item">
+              <img
+                className="d-block slideimage"
+                src="./images1/slide6.png"
+                alt="Third slide"
+              />
+            </div> */}
           </div>
           <a
             className="carousel-control-prev"
@@ -119,7 +119,7 @@ const BannerSection = () => {
         <div className="container-fluid px-5 d-flex latest_card_box">
           <div className="lnewsleft p-3">
             <div className="card_img1">
-              <img src="./images1/goodacd.jpeg" alt="" />
+              <img src="./images1/acad.jpeg" alt="" />
             </div>
             <div className="title">
               <h3 className="my-3 ak">Good Academic</h3>
@@ -143,7 +143,7 @@ const BannerSection = () => {
           </div>
           <div className="lnewsright p-3">
             <div className="card_img1">
-              <img src="./images1/g3.webp" alt="" />
+              <img src="./images1/sport.jpg" alt="" />
             </div>
             <div className="title">
               <h3 className="my-3 ak">Sports</h3>
@@ -234,7 +234,7 @@ const BannerSection = () => {
           </div>
           <div className="hlsmid text-center p-5">
             <div className="card_imgl my-5">
-              <img src="./images1/logo.jpeg" alt="" />
+              <img src="./images1/logo.png" alt="" />
             </div>
             <div className="title1 my-5">
               <div className="hlstbutton1">

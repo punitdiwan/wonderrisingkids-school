@@ -44,7 +44,7 @@ const Facilities = () => {
               {/* sports */}
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/g2.webp" alt="" />
+                <img src="./images1/sport.jpg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Sports</div>
@@ -59,7 +59,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/DSC_2126.JPG" alt="" />
+                <img src="./images1/infra.jpeg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Nice Infrastructure</div>
@@ -86,7 +86,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/goodacd.jpeg" alt="" />
+                <img src="./images1/acad.jpeg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Good Academic</div>

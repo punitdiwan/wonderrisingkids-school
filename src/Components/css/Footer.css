@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 .footermain {
-  background-color: #1d4776;
+  /* background-color: #1d4776; */
+  background-color: #e1a753;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -108,7 +109,8 @@
   padding: 2vmax;
 }
 .fbtm {
-  background-color: #1d4776;
+  /* background-color: #1d4776; */
+  background-color: #e1a753;
   width: 100%;
   display: flex;
   align-items: center;
