@@ -34,12 +34,10 @@ const Facilities = () => {
               </div>
               <div className="facontent">
                 <div className="factitle">Skilled Staff</div>
-                <p>Skilled Staff is here to teach or guide for your bright carrier and and provides Handson in our School.Teachers play a key role in identifying and supporting students who are at risk of dropping out, especially students from vulnerable populations, such as girls ...</p>
+                
+                <p>Skilled Staff is here to teach or guide for your bright carrier and and provides Problem Solving, Decision Making in our School.Teachers play a key role in identifying and supporting students who are at risk of dropping out, especially students from vulnerable populations, such as girls ..</p>
               </div>
             </div>
-
-
-
 
               {/* sports */}
             <div className="facilitCard">

@@ -136,8 +136,9 @@ const BannerSection = () => {
               <h3 className="my-3 ak">Skilled Staff</h3>
               <p>
                 Skilled Staff is here to teach or guide for your bright carrier
-                and and provides Handson in our School.Teachers play a key role
+                and  provides Problem Solving, Decision Making  in our School. Teachers play a key role
                 in identifying and supporting students...
+          
               </p>
             </div>
           </div>
@@ -174,10 +175,10 @@ const BannerSection = () => {
                 Our <span style={{ color: "yellow" }}>School</span>
               </h1>
               <p>
-              Wonder Rising Kids School provides an Islamic learning
+              Wonder Rising Kids School provides an Best learning
                 environment with a commitment of using modern day teaching
                 pedagogy to cultivate an advanced and comprehensive academic
-                program; fully compliant with the Hogwarts curriculum of
+                program; fully compliant with the curriculum of
                 studies. We are a Pre Nursery to 8th class school with a wide array of resources
                 designed to foster student achievement that will prepare our
                 pupils to pursue higher education and be competitive in their

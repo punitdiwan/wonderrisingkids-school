@@ -27,7 +27,13 @@ const ContactUs = () => {
                 <a className="linkwrap mnc" href="tel:+91  9826521034">
                   +91 9826521034
                 </a>{" "}
-                <a className="linkwrap mnc" href="tel:+91 07314968978">
+                <a className="linkwrap mnc" href="tel:+91 8959570807">
+                  +91  8959570807
+                </a>
+              </p>
+              <p className="linkwrap">
+                <b className="bbb">Phone:</b>{" "}
+                <a className="linkwrap mnc" href="tel: 07314968978">
                   +91 07314968978
                 </a>
               </p>
